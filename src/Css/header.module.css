@@ -2,5 +2,45 @@
 width: 1487.763px;
 height: 78.217px;
 flex-shrink: 0;
-border: 1px solid black;
+background: #FFF;
+
 }
+.right{
+   
+    width: 431.271px;
+height: 57.773px;
+flex-shrink: 0;
+    margin: 16.85px 36.14px 3.6px 1020.35px;
+
+}
+.name{
+    width: 82px;
+height: 48.402px;
+flex-shrink: 0;
+color: #959CB6;
+font-family: Poppins;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.namebutton{
+    width: 43.368px;
+height: 42.117px;
+flex-shrink: 0;
+border-radius: 4px;
+background: #D7F9EF;
+border: none;
+}
+.item{
+    width: 12.391px;
+height: 31.287px;
+flex-shrink: 0;
+color: #0BB783;
+font-family: Poppins;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+/*  margin: 22.86px 226.48px 26.47px 1020.35px; */
