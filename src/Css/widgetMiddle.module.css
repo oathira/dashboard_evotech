@@ -6,3 +6,33 @@ border:1px solid black;
 margin-left: 80.763px;
 margin-right: 85.9px;
 }
+.widgetFirst{
+  display: flex;
+  flex-direction: row;
+
+}
+.widgetFirstLeft{
+    padding: 0;
+width: 628.134px;
+height: 341.277px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #FFF;
+margin-right: 22.48px;
+}
+.widgetfistTop{
+width: 628px;
+height: 242px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #F64E60;
+
+margin-top: 0;
+}
+.widgetFirstRight{
+width: 670.451px;
+height: 343px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #FFF;
+}
