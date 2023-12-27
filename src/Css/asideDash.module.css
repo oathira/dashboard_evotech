@@ -1,0 +1,56 @@
+.sidebar{
+width: 319.237px;
+height: 1805px;
+flex-shrink: 0;
+background: #1E1E2D;
+}
+.topHead{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 319.237px;
+    height: 78.217px;
+    flex-shrink: 0;
+    background: #1B1B28;
+}
+.mainHead{
+  
+    width: 219px;
+height: 38px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.svg{
+
+width: 28.912px;
+height: 28.88px;
+flex-shrink: 0;
+}
+.subHead{
+    width: 87.941px;
+height: 24.067px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.subItems{
+    width: 39.754px;
+height: 21.66px;
+flex-shrink: 0;
+color: #888C9F;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
