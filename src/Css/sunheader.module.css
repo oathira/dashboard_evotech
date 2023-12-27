@@ -2,5 +2,51 @@
     width: 1487.763px;
     height: 64.98px;
     flex-shrink: 0;
+    background: #FFF;
+box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.05);
+
   
+}
+.left{
+    width: 267.792px;
+height: 38.507px;
+flex-shrink: 0;
+display: flex;
+flex-direction: row;
+margin: 10.78px 1183px 15.69px 36.14px;
+
+}
+
+.dash{
+    width: 89.145px;
+height: 24.067px;
+flex-shrink: 0;
+color: #434349;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.addNew{
+width: 95.169px;
+height: 38.507px;
+flex-shrink: 0;
+border-radius: 4px;
+background: #FFF4DE;
+border: none;
+}
+.addNewText{
+    width: 71.075px;
+height: 24.067px;
+flex-shrink: 0;
+color: #FFA800;
+font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.right{
+
 }

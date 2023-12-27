@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #EEF0F8;
 }
 
 code {
@@ -14,5 +15,6 @@ code {
 .app{
   display:flex;
   flex-direction: row;
+ 
 }
 
