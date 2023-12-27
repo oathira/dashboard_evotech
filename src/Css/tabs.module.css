@@ -2,8 +2,63 @@
     width: 1343px;
  height: 197px;
 flex-shrink: 0;
-border:1px solid black;
 margin-left: 80.763px;
 margin-right: 64px;
+margin-top: 28px;
+margin-bottom: 34px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
 
+}
+.highlighttab{
+    display: inline-flex;
+   
+    padding: 18px 50px 38px 52px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+border-radius: 12px;
+background: #50CD89;
+border: 1px solid #50CD89;
+
+}
+.highlightsvg{
+    width: 98.771px;
+    height: 71px;
+    flex-shrink: 0;
+}
+.highlighttext{
+    width: 89px;
+height: 56px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 19px; /* 95% */
+}
+.tab1{
+display: inline-flex;
+flex-direction: column;
+padding: 18px 50px 38px 52px;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+border: 1px solid #EFF2F5;
+background: #FFF;
+
+}
+.text{
+    color: #B5B5C3;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px; /* 95% */
 }

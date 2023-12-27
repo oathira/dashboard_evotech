@@ -4,16 +4,17 @@
     flex-shrink: 0;
     background: #FFF;
 box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.05);
-
-  
+display: flex;
+flex-direction: row;
+justify-content: space-between;
 }
 .left{
-    width: 267.792px;
+width: 267.792px;
 height: 38.507px;
 flex-shrink: 0;
 display: flex;
 flex-direction: row;
-margin: 10.78px 1183px 15.69px 36.14px;
+margin: 10.78px 728x 15.69px 36.14px;
 
 }
 
@@ -48,5 +49,9 @@ font-weight: 500;
 line-height: normal;
 }
 .right{
-
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ 
+ margin: 13.24px 30.12x 13.24px 700px;
 }
